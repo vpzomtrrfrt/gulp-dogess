@@ -1,6 +1,6 @@
 {
   "name": "gulp-dogess",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A gulp plugin to compile DogeSS",
   "main": "dist/index.js",
   "scripts": {
