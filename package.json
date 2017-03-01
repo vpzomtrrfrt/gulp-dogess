@@ -1,0 +1,33 @@
+{
+  "name": "gulp-dogess",
+  "version": "0.1.0",
+  "description": "A gulp plugin to compile DogeSS",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpzomtrrfrt/gulp-dogess.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "dogess"
+  ],
+  "author": "VpzomTrrfrt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vpzomtrrfrt/gulp-dogess/issues"
+  },
+  "homepage": "https://github.com/vpzomtrrfrt/gulp-dogess#readme",
+  "dependencies": {
+    "dogess": "^0.1.0",
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-dogescript": "^0.1.0"
+  }
+}
